@@ -1,0 +1,28 @@
+img{
+  max-height: 400px;
+  max-width: 500px;
+  min-width: 500px;
+  min-height: 400px;
+height:400px;
+width:500px;
+border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+}
+body{background-color: powderblue;}
+
+#logo{
+font-size: 30px;
+color: white;
+font-family: fantasy;
+padding-top: 20px;
+
+
+}
+
+.size{
+  font-size: 30px;
+  color: white;
+  font-family: fantasy;
+
+}

@@ -1,0 +1,27 @@
+body{background-color: #FF69B4;
+color:blue;
+font-size: 20px;
+}
+
+
+#logo{
+font-size: 30px;
+color: white;
+font-family: fantasy;
+padding-top: 20px;
+
+
+}
+
+.size{
+  font-size: 30px;
+  color: white;
+  font-family: fantasy;
+
+}
+#size2 {
+
+  font-size: 25px;
+  color:green;
+
+}

@@ -1,0 +1,39 @@
+#mainimg {max-height: 450px;
+  min-height:450px;
+  max-width: 450px;
+  min-width: 500px;
+}
+
+#bottom {
+  margin-bottom: 50px;
+}
+#libottom {
+margin-bottom: 70px;
+
+}
+
+#endbottom {
+margin-bottom: 30px;
+
+}
+
+body{background-color: orange;
+
+
+}
+
+#logo{
+font-size: 30px;
+color: white;
+font-family: fantasy;
+padding-top: 20px;
+
+
+}
+
+.size{
+  font-size: 30px;
+  color: white;
+  font-family: fantasy;
+
+}

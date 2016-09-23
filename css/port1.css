@@ -1,0 +1,39 @@
+body{
+background-color:#FFD700
+
+
+}
+
+p {
+  text-align: justify;
+  padding: 5px;
+
+}
+
+h1 {
+font-size: 30px;
+font-family: fantasy;
+padding: 10px;
+}
+
+li {
+  font-size: 25px;
+  font-family: fantasy;
+  padding: 10px;
+}
+
+#logo{
+font-size: 30px;
+color: white;
+font-family: fantasy;
+padding-top: 20px;
+
+
+}
+
+.size{
+  font-size: 30px;
+  color: white;
+  font-family: fantasy;
+
+}
